@@ -1,0 +1,29 @@
+Documentation:
+
+System
+for the perception of the PC, wick the command - power off \
+to add files to the list type the 'add' command (example: add file name
+add path to file\)
+to open the file, enter the alias given when adding the file (example: file name)
+
+Internet
+in order to add a browser link to the list, use the add command (example: add sitename
+add link\)
+to add a user to send messages to telegram, use the name and id commands (example: name username
+id userid)
+in order to send a message to a telegram user, use the command M or m in the first line to enter the message
+and the user's alias (example: M message
+username)
+in order to open a link from the list, enter the alias that you specified when adding the file (example: sitename)
+in order to open a link that does not have an alias, simply enter it into the terminal (example: https://link.com \)
+to search in the browser, use the command 's' or 'S' (example: s text\)
+to search on the youtube site, use the command 'y' or 'Y' (example: y videoName)
+to search on the kinopoisk site, use the command 'kp' or 'KP' (example: kp filmName)
+to search on the aliexpress site, use the command 'ali' (example: ali productname)
+
+Auxiliary
+in order to delete a temporary text file, use the 'delete' command
+to clear the lists of paths and names of files/links, use the 'clear' command
+to clear the terminal, use the 'cls' command
+to open/edit the terminal source code, use the 'mod_code' command
+to open the assistant documentation, use the 'doc' command
