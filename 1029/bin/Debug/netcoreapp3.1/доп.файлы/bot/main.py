@@ -15,7 +15,4 @@ def send():
             text = str(file2.readline())
             client.send_message(u_id, text)
 if __name__ == '__main__':
-   f = open('text.txt', "r", encoding='utf-8')
-   line = f.readlines()
-   print(line)
    send()
