@@ -1,0 +1,24 @@
+Documentation:
+
+System
+for the perception of the PC, wick the command - power off \
+to add files to the list type the 'add' command (example: add file name
+add path to file\)
+to open the file, enter the alias given when adding the file (example: file name)
+
+Internet
+in order to add a site to the list, tag the add command (example: add sitename
+add a link
+in order to open the request from the list, enter the alias you use when adding the file (example: site name)
+in order to open a posilan without an alias, just type it into the terminal (example: https://link.com\)
+to search in the browser type 's' or 'S' (example: s text\)
+to search on youtube write the command 'y' or 'Y' (example: y videoName)
+to search on a film search site, tag 'kp' or 'KP' (example: kp filmName)
+in order to search on the aliexpress website, the command is tag ali (example: ali productname)
+
+Auxiliary
+in order to delete the temporary text file of the wiki command 'delete'
+to clear lists of paths and named files/links type 'clear' command
+to clear the terminal type the 'cls' command
+to open/edit the source code of the terminal type the 'mod_code' command
+in order to open the documentation of the terminal, the command is to tweet 'doc'
