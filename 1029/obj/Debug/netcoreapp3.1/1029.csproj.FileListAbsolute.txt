@@ -1,0 +1,16 @@
+C:\Users\Rodion\source\repos\1029\1029\bin\Debug\netcoreapp3.1\1029.exe
+C:\Users\Rodion\source\repos\1029\1029\bin\Debug\netcoreapp3.1\1029.deps.json
+C:\Users\Rodion\source\repos\1029\1029\bin\Debug\netcoreapp3.1\1029.runtimeconfig.json
+C:\Users\Rodion\source\repos\1029\1029\bin\Debug\netcoreapp3.1\1029.runtimeconfig.dev.json
+C:\Users\Rodion\source\repos\1029\1029\bin\Debug\netcoreapp3.1\1029.dll
+C:\Users\Rodion\source\repos\1029\1029\bin\Debug\netcoreapp3.1\1029.pdb
+C:\Users\Rodion\source\repos\1029\1029\obj\Debug\netcoreapp3.1\1029.csproj.AssemblyReference.cache
+C:\Users\Rodion\source\repos\1029\1029\obj\Debug\netcoreapp3.1\1029.csproj.GenerateResource.cache
+C:\Users\Rodion\source\repos\1029\1029\obj\Debug\netcoreapp3.1\1029.AssemblyInfoInputs.cache
+C:\Users\Rodion\source\repos\1029\1029\obj\Debug\netcoreapp3.1\1029.AssemblyInfo.cs
+C:\Users\Rodion\source\repos\1029\1029\obj\Debug\netcoreapp3.1\1029.csproj.CoreCompileInputs.cache
+C:\Users\Rodion\source\repos\1029\1029\obj\Debug\netcoreapp3.1\1029.dll
+C:\Users\Rodion\source\repos\1029\1029\obj\Debug\netcoreapp3.1\1029.pdb
+C:\Users\Rodion\source\repos\1029\1029\obj\Debug\netcoreapp3.1\1029.genruntimeconfig.cache
+C:\Users\Rodion\source\repos\1029\1029\obj\Debug\netcoreapp3.1\_1029.terminal.resources
+C:\Users\Rodion\source\repos\1029\1029\obj\Debug\netcoreapp3.1\_1029.doc.resources
