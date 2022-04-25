@@ -12,3 +12,5 @@ and open config.py change api_id and api_hash (from https://my.telegram.org/auth
 next use command python main.py and input enter your phone and code
 
 good luck using
+
+(do not use 1029 starter)
