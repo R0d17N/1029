@@ -1,0 +1,15 @@
+C:\Users\Rodion\source\repos\1029_starter\1029_starter\obj\Debug\netcoreapp3.1\_1029_starter.Form1.resources
+C:\Users\Rodion\source\repos\1029_starter\1029_starter\obj\Debug\netcoreapp3.1\1029_starter.csproj.GenerateResource.cache
+C:\Users\Rodion\source\repos\1029_starter\1029_starter\obj\Debug\netcoreapp3.1\1029_starter.AssemblyInfoInputs.cache
+C:\Users\Rodion\source\repos\1029_starter\1029_starter\obj\Debug\netcoreapp3.1\1029_starter.AssemblyInfo.cs
+C:\Users\Rodion\source\repos\1029_starter\1029_starter\obj\Debug\netcoreapp3.1\1029_starter.csproj.CoreCompileInputs.cache
+C:\Users\Rodion\source\repos\1029_starter\1029_starter\bin\Debug\netcoreapp3.1\1029_starter.exe
+C:\Users\Rodion\source\repos\1029_starter\1029_starter\bin\Debug\netcoreapp3.1\1029_starter.deps.json
+C:\Users\Rodion\source\repos\1029_starter\1029_starter\bin\Debug\netcoreapp3.1\1029_starter.runtimeconfig.json
+C:\Users\Rodion\source\repos\1029_starter\1029_starter\bin\Debug\netcoreapp3.1\1029_starter.runtimeconfig.dev.json
+C:\Users\Rodion\source\repos\1029_starter\1029_starter\bin\Debug\netcoreapp3.1\1029_starter.dll
+C:\Users\Rodion\source\repos\1029_starter\1029_starter\bin\Debug\netcoreapp3.1\1029_starter.pdb
+C:\Users\Rodion\source\repos\1029_starter\1029_starter\obj\Debug\netcoreapp3.1\1029_starter.dll
+C:\Users\Rodion\source\repos\1029_starter\1029_starter\obj\Debug\netcoreapp3.1\1029_starter.pdb
+C:\Users\Rodion\source\repos\1029_starter\1029_starter\obj\Debug\netcoreapp3.1\1029_starter.genruntimeconfig.cache
+C:\Users\Rodion\source\repos\1029_starter\1029_starter\obj\Debug\netcoreapp3.1\1029_starter.csproj.AssemblyReference.cache

@@ -1,0 +1,4 @@
+from telethon.sync
+from telethon
+import time
+import random
