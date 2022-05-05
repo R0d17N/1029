@@ -1,12 +1,14 @@
 Documentation:
 
 System
+to open a file or folder, specify the path and use '/' (example: C:\Users\user\Desktop\file.txt/)
 for the perception of the PC, wick the command - power off \
 to add files to the list type the 'add' command (example: add file name
 add path to file\)
 to open the file, enter the alias given when adding the file (example: file name)
 
 Internet
+to open a link enter it and use '\' (example: https://r0d17n.github.io/1029site/index.html\)
 in order to add a browser link to the list, use the add command (example: add sitename
 add link\)
 to add a user to send messages to telegram, use the name and id commands (example: name username
@@ -27,3 +29,5 @@ to clear the lists of paths and names of files/links, use the 'clear' command
 to clear the terminal, use the 'cls' command
 to open/edit the terminal source code, use the 'mod_code' command
 to open the assistant documentation, use the 'doc' command
+to start the stopwatch, use the command SW or sw
+to start the timer type the mtimer command (example: 60 mtimer)
